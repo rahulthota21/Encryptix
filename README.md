@@ -10,7 +10,7 @@ This repository contains solutions for the machine learning tasks provided durin
 
 ### Task 1: Movie Genre Classification
 - **Objective:** Create an ML model to predict movie genres based on plot summaries or other textual data.
-- **Model Used:** Support Vector Machines (SVM)
+- **Model Used:** Naïve Bayes
 
 ### Task 2: Credit Card Fraud Detection
 - **Objective:** Build a model to detect fraudulent credit card transactions.
