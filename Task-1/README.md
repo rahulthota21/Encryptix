@@ -51,3 +51,26 @@ This task involves building a machine learning model to classify movies into dif
      ```bash
      pip list
      ```
+### Part 3: Loading Libraries and Dataset
+
+**1. Load Required Libraries:**
+   - Open your Jupyter Notebook.
+   - Import the libraries you need for the project, such as NumPy, Pandas, Seaborn, Scikit-learn, and Matplotlib.
+
+**2. Load the Dataset:**
+   - Read the dataset files (`train_data.txt`, `test_data.txt`, etc.) into your Jupyter Notebook using Pandas.
+   - Ensure you use the correct delimiters to properly parse the text files.
+
+### Part 4: Data Exploration
+
+**1. Check for Null Values:**
+   - Inspect the dataset to identify if there are any missing values in the columns.
+   - If any null values are found, decide on how to handle them (e.g., filling with default values or removing them).
+
+**2. Check for Duplicates:**
+   - Check if there are any duplicate entries in the dataset.
+   - If duplicates are present, decide on how to handle them (e.g., removing duplicates).
+
+
+
+   
