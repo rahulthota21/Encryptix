@@ -32,4 +32,4 @@ This repository contains solutions for the machine learning tasks provided durin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/encryptix.git
+   git clone https://github.com/rahulthota21/Encryptix.git
