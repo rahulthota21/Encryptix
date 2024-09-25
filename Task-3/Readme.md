@@ -32,6 +32,8 @@ The objective of this project is to build a predictive model to determine which 
 
 ## Data
 
+[Download the Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+
 The dataset used for this project includes historical customer data with the following features:
 - **Demographics**: Age, gender, income, location, etc.
 - **Subscription Info**: Subscription type, duration, renewal history, etc.
