@@ -12,21 +12,23 @@ This repository contains solutions for the machine learning tasks provided durin
 - **Objective:** Create an ML model to predict movie genres based on plot summaries or other textual data.
 - **Model Used:** Naïve Bayes
 
-### Task 2: Credit Card Fraud Detection
+### Task 2: Credit Card Fraud Detection [Not Done]
 - **Objective:** Build a model to detect fraudulent credit card transactions.
 - **Model Used:** XGBoost
 
+
 ### Task 3: Customer Churn Prediction
 - **Objective:** Develop a model to predict customer churn for subscription-based services.
-- **Model Used:** Gradient Boosting Machines (GBM)
+- **Model Used:** Random Forests
 
 ### Task 4: Spam SMS Detection
 - **Objective:** Build an AI model to classify SMS messages as spam or legitimate.
-- **Model Used:** Random Forests
+- **Model Used:** Naive Bayes
 
-### Task 5: Handwritten Text Generation
+### Task 5: Handwritten Text Generation [Not Done]
 - **Objective:** Implement a model to generate handwritten-like text.
 - **Model Used:** K-Nearest Neighbors (KNN)
+
 
 ## Getting Started
 
